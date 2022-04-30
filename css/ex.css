@@ -1,0 +1,39 @@
+body {
+    background-color: #FBF8F1;
+}
+
+hr {
+    background-color: #FBF8F1;
+    counter-reset: gray;
+    border-top: dotted;
+    border-bottom: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    height: 30px;
+    width: 20px;
+}
+
+h1 {
+    color: #C65D7B;
+}
+
+h3 {
+    color: #874356;
+}
+
+h2 {
+    color: #C65D7B;
+}
+
+td {
+    color: #874356;
+}
+
+label {
+    color: #363062;
+}
+
+img {
+    size: 10px;
+    ;
+}
